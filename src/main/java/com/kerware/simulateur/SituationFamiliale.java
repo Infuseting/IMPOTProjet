@@ -1,2 +1,9 @@
-package com.kerware.simulateur;public enum SituationFamiliale {
+package com.kerware.simulateur;
+
+enum SituationFamiliale {
+    CELIBATAIRE,
+    PACSE,
+    MARIE,
+    DIVORCE,
+    VEUF
 }
