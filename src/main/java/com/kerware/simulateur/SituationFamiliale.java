@@ -1,6 +1,6 @@
 package com.kerware.simulateur;
 
-enum SituationFamiliale {
+public enum SituationFamiliale {
     CELIBATAIRE,
     PACSE,
     MARIE,
